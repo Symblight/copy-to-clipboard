@@ -1,0 +1,14 @@
+{
+  "name": "@symblight/copy-to-clip",
+  "version": "1.0.0",
+  "description": "copy to clipboard",
+  "author": "symblight@gmail.com",
+  "license": "MIT",
+  "repository": "symblight/copty-to-clip",
+  "main": "index.js",
+  "keywords": [
+    "copy-to-clip",
+    "npm",
+    "package"
+  ]
+}
