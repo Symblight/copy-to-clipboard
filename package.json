@@ -1,6 +1,6 @@
 {
-  "name": "@symblight/copy-to-clip",
-  "version": "1.0.0",
+  "name": "@symblight/copy-to-clipboard",
+  "version": "2.0.0",
   "description": "copy to clipboard",
   "author": "symblight@gmail.com",
   "license": "MIT",

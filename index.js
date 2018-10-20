@@ -1,4 +1,4 @@
-const copyToClipboard = (text) => {
+export const copyToClipboard = (text) => {
     const aux = document.createElement('input');
 
     aux.setAttribute('value', text);
@@ -12,7 +12,7 @@ const copyToClipboard = (text) => {
     document.body.removeChild(aux);
 }
 
-const copyFromDOM = (node) => {
+export const copyFromDOM = (node) => {
     const range = document.createRange();
     range.selectNode(node);
     const sel = window.getSelection();
